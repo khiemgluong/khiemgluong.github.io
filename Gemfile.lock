@@ -61,7 +61,7 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-obsidian (1.1.1)
+    jekyll-obsidian (1.1.2)
       jekyll (~> 4.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
@@ -176,7 +176,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
-  jekyll-obsidian (~> 1.1.1)
+  jekyll-obsidian (~> 1.1.2)
   jekyll-sitemap
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
