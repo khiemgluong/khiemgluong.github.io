@@ -1,0 +1,6 @@
+### **"Lex Portus Occulti Gladii" (The Law of Concealed Blade Carry)**
+Following the initial restrictions on long swords, a new amendment is announced to manage the carrying of shorter blades, such as daggers and small swords, in public areas. This law mandates that any blade shorter than a dagger and is double-edged must also be registered for a concealed carry license, a move aimed at controlling hidden weapons amongst civilians. This comprehensive approach intends to deter clandestine threats and increase public safety.
+
+"My fellow Amerians, as we refine our stance on the public bearing of arms, it has become necessary to extend our vigilance to those weapons not easily seen as well. Henceforth, blades shorter than the length of a dagger must also be registered for concealed carry. This regulation will ensure that no hidden weapon threatens the peace of our citizenry. Together, with these laws, we fortify the safety of our streets and the security of our homes."
+
+Public reaction has been mixed. Urban dwellers, who face the daily challenges of crowded city life, have largely supported the new amendment, appreciating its potential to increase public safety. In contrast, rural inhabitants have expressed concerns over their right to personal defense, arguing that the registration process is an unnecessary encroachment on their traditional liberties.

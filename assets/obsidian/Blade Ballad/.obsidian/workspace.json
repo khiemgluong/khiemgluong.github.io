@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "c86540c085303d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0cbf121718073c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda10e040859adb1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "main plot/Ch 2 The Passage.canvas",
+                "viewState": {
+                  "x": 467.1116722049785,
+                  "y": 9.40661927223529,
+                  "zoom": -0.6382181829422995
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db4fa0b4e7bd3577",
+    "type": "split",
+    "children": [
+      {
+        "id": "71bb9b12ee5d5a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa4dbc0eca00dce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e401d9e9e4f3a365",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91b4ff28d6c2ecb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "60a4beaa8433e333",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4fd781ebd79f4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054e9176e092e172",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cc309a49c9eea7b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c26681645f71c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main plot/Ch 2 The Passage.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7d6a73f6a5d05de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main plot/Ch 2 The Passage.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6d7a4f845af437c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main plot/Ch 2 The Passage.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "eda10e040859adb1",
+  "lastOpenFiles": [
+    "main plot/Ch 3 The Disciple.canvas",
+    "main plot/Ch 4 The Prophecy.canvas",
+    "main plot/Ch 5 The Missionary.canvas",
+    "main plot/Ch 5A Dialogue.canvas",
+    "main plot/Ch 2 The Passage.canvas",
+    "main plot/Ch 1 The Judgement.canvas",
+    "main plot.canvas",
+    "overview.md",
+    "references/Greek Philosophies.md",
+    "parables/parables.md",
+    "gameplay/combat.md",
+    "gameplay/building.md",
+    "gameplay/abilities.md",
+    "references/geographic/desert.md",
+    "main plot/Ch 5B Jinzech.canvas",
+    "politics/people/Holy Amerian Empire/rulers/Dominus Vangus.md",
+    "politics/people/Awakened Movement/Disciple Jaqub.md",
+    "politics/polities/tribes/Mondkült.md",
+    "references/combat/4 German Guards.md",
+    "references/combat/Japanese Jutsu.md",
+    "snapshots/0.3.0.md",
+    "places/Malos.md",
+    "places/Holy Amerian Empire/Muttisia/The Forum (Muttisia).md",
+    "politics/people/Awakened Movement/The Blasphemer.md",
+    "places/Holy Amerian Empire/Muttisia/Muttisia.md",
+    "religions/Awakened.md",
+    "items/apparel/sleeves/Iron Flat Arm Plates.md",
+    "_roadmap.md",
+    "assets/images/items/apparel/feet/Caligae.png",
+    "politics/polities/states/_Polity Relation Matrix.md",
+    "items/arms/Gladius.md",
+    "items/arms/Bastard Sword.md",
+    "items/arms/Katana.md",
+    "items/apparel/clothing.md",
+    "assets/images/items/apparel/sleeve/Iron Half Arm Plates.png",
+    "assets/images/items/apparel/sleeve/Iron Flat Arm Plates.png",
+    "items/apparel/sleeves",
+    "assets/images/items/apparel/head/Eisenhelm.png",
+    "assets/images/items/apparel/torso/Tunic.png",
+    "assets/images/items/apparel/head/Gladiator Helmet.png",
+    "assets/images/items/apparel/head/Kettle Helmet.png",
+    "assets/images/items/apparel/torso",
+    "assets/images/items/apparel/mantle/Hooded_MissionaryCloak_Male.png",
+    "assets/images/items/apparel/mantle",
+    "assets/images/items/apparel/feet",
+    "assets/images/items/apparel/sleeve",
+    "assets/images/items/apparel/legs",
+    "assets/images/items/apparel/head",
+    "assets/images/screenshots/0.3.0 - without customshader.png",
+    "assets/images/screenshots/0.3.0 - with customshader.png",
+    "parables/Heavy Purse.canvas",
+    "assets/images/historical/melee",
+    "assets/images/historical/clothing",
+    "items/foods/Jinzech Dynasty",
+    "dialogues/with Awakened/With Disciple Coatez.canvas",
+    "parables/Worn Boots.canvas"
+  ]
+}

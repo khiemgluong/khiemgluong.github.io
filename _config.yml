@@ -35,7 +35,7 @@ plugins:
 
 keep_files:
   - .gitignore
-obsidian_vault: "vaults/Blade Ballad" # Required
+obsidian_vault: "assets/obsidian/Blade Ballad" # Required
 obsidian_homepage: "overview.md" # Optional
 
 # collections:

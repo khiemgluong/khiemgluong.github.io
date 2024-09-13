@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1710638808209,
+      "path": "Blade Ballad SETTING.canvas",
+      "title": "Setting"
+    },
+    {
+      "type": "file",
+      "ctime": 1716956869674,
+      "path": "main plot/dialogues/Ch 1 The Judgement.canvas",
+      "title": "Ch 1"
+    },
+    {
+      "type": "group",
+      "ctime": 1717880300609,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1717925296451,
+          "path": "politics/polities/tribes/Mondkült.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718698924049,
+          "path": "politics/people/Awakened Movement/Disciple Jaqub.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718830947369,
+          "path": "politics/people/Holy Amerian Empire/rulers/Dominus Vangus.md"
+        }
+      ],
+      "title": "Needs rework"
+    }
+  ]
+}
