@@ -79,7 +79,7 @@
         for (const parsedFilePath in backlinks_parsed) {
             const entry = backlinks_parsed[parsedFilePath];
             entry.backlink_paths.forEach(path => {
-                if (path === filePath && parsedFilePath.endsWith('.mdnote')) {
+                if (path === filePath && parsedFilePath.endsWith('.md')) {
                     linked_mentions.push(parsedFilePath.replace("/:|", "'"));
                 }
             });
@@ -157,9 +157,9 @@
             let homepage = '{{ site.obsidian_homepage | escape }}';
             if (homepage) {
                 if (homepage.endsWith('.md'))
-                    homepage = homepage.replace('.md', '.mdnote');
+                    homepage = homepage.replace('.md', '.');
 
-                if (homepage.endsWith('.mdnote')) {
+                if (homepage.endsWith('.')) {
                     switchPage(homepage);
                     loadNote(homepage);
                     console.log("note loaded: " + homepage);
