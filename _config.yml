@@ -24,7 +24,7 @@ email: khiemgluong@gmail.com
 # hello
 # baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://khiemgluong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://khiemgluong.github.io/" # the base hostname & protocol for your site
 github_username:  khiemgluong
 
 # Build settings
@@ -38,10 +38,11 @@ keep_files:
 obsidian_vault: "assets/obsidian/Blade Ballad" # Required
 obsidian_homepage: "overview.mdnote" # Optional
 
-# collections:
-#   vaults:
-#     output: false
-#     source: vaults
+defaults:
+  - scope:
+      path: "assets/obsidian/"
+    values:
+      layout: null 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,8 +52,7 @@ obsidian_homepage: "overview.mdnote" # Optional
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - assets/obsidian/
+# exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
