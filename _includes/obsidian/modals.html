@@ -221,7 +221,6 @@
                 }
                 button.textContent = button.textContent.slice(1);
                 button.addEventListener('click', () => {
-                    const linkType = button.getAttribute('data-link-type');
                     dispatchFileSelectEvt(decodedString);
                     MODALS.querySelector('#search-modal').hidePopover();
                 });

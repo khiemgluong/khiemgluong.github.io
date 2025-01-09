@@ -11,7 +11,7 @@ gem 'bigdecimal', "~> 3.1"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-sitemap"
-  gem 'jekyll-obsidian', "1.1.6"
+  gem 'jekyll-obsidian', "~> 1.1.7"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
