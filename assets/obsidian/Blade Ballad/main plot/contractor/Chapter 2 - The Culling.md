@@ -1,0 +1,9 @@
+- You arrived in [[Fajjarah]]
+- You meet with [[Dominus Vangus]], expecting information on [[The Blasphemer]], but he will tell you to first take care of a political matter between his clan, the [[Triumvates]] and the [[Khainites]], in accordance with Imperial law and customs
+- Your protest that this slows down the search for the blasphemer and that you didn't agree to extra work falls on deaf ears (people get to lie to you if you serve money lmao)
+- Your job is to legally remove the [[Khainites]] via a forced draft, as both population control and demonstration of imperial power
+- All [[Khainites]] males will be drafted or killed by you if they refuse
+- As you leave the city, [[Disciple Jaqub]] will stop you and challenge to fight you, because he can't allow you to find [[The Blasphemer]]
+- Once that's done, you will be given a lead to [[The Blasphemer]]'s whereabouts, starting [[Chapter 3 - The Stipend]]
+	- You get paid as well
+	- You get sent to [[Kalahknaab]] to meet one of the empire's "ambassador" in the cartel business

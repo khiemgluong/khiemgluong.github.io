@@ -1,0 +1,12 @@
+- You arrive at [[Kalahknaab]] of the [[Metzacoatl Cartel]]
+- Here you will meet with [[Disciple Coatez]], who says that your arrival has fulfilled a prophecy which will free his people
+- The prophecy is more metaphorical than based on real chronological events, and you're not exactly sure what it is, but it does involve "removing demonic possession"
+- This is the first time that you will invoke divine intervention. You will preach to the [[Metzacoatl Cartel]] of divine punishment if they continue to abuse narcican and justify their barbaric behavior while under its influence, for you say of the [[Awakened#Eye for an Eye]], that their disregard for human life and integrity will cost them theirs.
+- ~~The king will protect the drug lord, and any critical sentiment against him will make you an enemy~~
+- ~~You demonstrate your divine power by poisoning their [[Narcican]], making its user more aggressive and unreasonable. You return in 3 days to see the effects~~
+	- ~~The users of the laced narcican become self destructive, mutilating themselves and killing their neighbors out of pure aggression.~~
+- The king admits that he is only a leader *de jure*, and that [[El Sápa Alacran]], the drug kingpin, actually runs his country.
+- You fight through the kingpin's estate and duel him to the death.
+	- If you do this before poisoning the narcican, there will be many more guards who are higher level
+- The people are now free from the drug boss, and the "prophecy" is fulfilled.
+- [[Disciple Coatez]] becomes the religious head of the Metzacoatl people, and begins work on changing the iconography and pagan religion to the [[Awakened]]

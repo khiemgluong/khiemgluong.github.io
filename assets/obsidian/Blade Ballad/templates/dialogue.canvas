@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b45367a985a55756","type":"group","x":2560,"y":-765,"width":12480,"height":5165,"label":"To NPCs"},
+		{"id":"4e2ef2c9273c09c9","type":"group","x":-8480,"y":-765,"width":9640,"height":5165,"label":"To You"},
+		{"id":"4d09fd31658a2d57","type":"group","x":-8400,"y":-680,"width":2800,"height":2960,"label":"Context"},
+		{"id":"215219dde42a1b67","type":"group","x":4560,"y":-545,"width":1840,"height":1505,"label":"Context"},
+		{"id":"6f4890d6a635dd3a","type":"group","x":2640,"y":-545,"width":1760,"height":1505,"label":"Context"},
+		{"id":"ef5084e45ccc79da","type":"text","text":"# **[[NPC]]**","x":2640,"y":-685,"width":455,"height":64}
+	],
+	"edges":[
+		{"id":"431f14e894090f85","fromNode":"ef5084e45ccc79da","fromSide":"right","toNode":"6f4890d6a635dd3a","toSide":"top"},
+		{"id":"b1459c8b90379be7","fromNode":"ef5084e45ccc79da","fromSide":"right","toNode":"215219dde42a1b67","toSide":"top"}
+	]
+}

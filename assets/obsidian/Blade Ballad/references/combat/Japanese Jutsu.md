@@ -1,0 +1,2 @@
+[How to draw a Katana](https://www.youtube.com/watch?v=q5KEPeGoP6k&list=PLCZVnxBzP1stiszwd9DskUTDtimq000Mu&index=2)
+- Katana is worn 45 degrees into the body, so unsheathing it does not expose your entire wrist if it was straight from the 

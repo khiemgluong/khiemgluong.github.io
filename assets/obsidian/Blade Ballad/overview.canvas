@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"919563adf0ab63e9","type":"file","file":"people/You.md","x":-1100,"y":-240,"width":412,"height":400},
+		{"id":"2c61fe120352cc0c","type":"file","file":"main plot/messenger/Chapter 1 - The Judgment.md","x":-600,"y":-240,"width":400,"height":400},
+		{"id":"d6ff498abf72af10","type":"text","text":"**LOOP**","x":-1060,"y":320,"width":250,"height":60},
+		{"id":"ddeb67ebc5a08dc5","type":"text","text":"- Manual labor\n- Military Service\n- Looting \n- Mercantilism\n- Gambling\n- Slave Trading\n- Gladiator Fights","x":-1463,"y":436,"width":363,"height":324},
+		{"id":"4143809ac6e899d6","type":"text","text":"To Advance Story","x":-938,"y":578,"width":250,"height":60},
+		{"id":"e4c3d28ee89ef206","type":"text","text":"[[main plot.canvas|main plot]]","x":-938,"y":780,"width":250,"height":60},
+		{"id":"6bce75b8be017cd9","type":"text","text":"Ending","x":-460,"y":880,"width":250,"height":60},
+		{"id":"9f0c320f261cd819","type":"text","text":"**INTRODUCTION**","x":-780,"y":-420,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"07af70e56cdb0a48","fromNode":"919563adf0ab63e9","fromSide":"right","toNode":"2c61fe120352cc0c","toSide":"left"},
+		{"id":"3c9f326c6cfb241f","fromNode":"9f0c320f261cd819","fromSide":"bottom","toNode":"919563adf0ab63e9","toSide":"top"},
+		{"id":"8f2d3c9f2f87165f","fromNode":"2c61fe120352cc0c","fromSide":"bottom","toNode":"d6ff498abf72af10","toSide":"top"},
+		{"id":"15ff11e4fdcf9976","fromNode":"d6ff498abf72af10","fromSide":"bottom","toNode":"4143809ac6e899d6","toSide":"top"},
+		{"id":"a4c8204e5bde909f","fromNode":"4143809ac6e899d6","fromSide":"bottom","toNode":"e4c3d28ee89ef206","toSide":"top"},
+		{"id":"4fa08ddc7187632c","fromNode":"d6ff498abf72af10","fromSide":"bottom","toNode":"ddeb67ebc5a08dc5","toSide":"right"}
+	]
+}

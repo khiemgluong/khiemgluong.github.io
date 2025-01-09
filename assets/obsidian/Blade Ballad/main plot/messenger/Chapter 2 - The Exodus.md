@@ -1,0 +1,9 @@
+- You arrived in [[Fajjarah]]
+- [[Disciple Jaqub]] is there, who might have followed you there or placed there
+- He says one way to get the message out is to perform a noble act with its name, doing so by solving political matter between the ruling class and the migrant [[Khainites]] clans.
+- You abide by [[The Blasphemer]]'s teachings of [[Awakened#Unity in separation]], that to create peace and harmony, the migrants must separate and return back to their home.
+- Justified by their reason behind being in [[Fajjarah]] in the first place
+- Once you shepherd them out and return to [[Fajjarah]], [[Chapter 3 - The Prophecy]] begins, Disciple Jaqub says [[Kalahknaab]] is nearby, and he hasn't given a sermon there yet, aiming to "cleanse them of demonic possession"
+- Some times later, you will encounter [[Gaius Maximus]], who lost his position because his [[Khainites]] slaves all left, and will challenge you to a fight for honor
+	- Your companion will not assist you in duels
+- The [[Khainites]] becomes worshipers of [[The Blasphemer]]

@@ -1,0 +1,4 @@
+- You accept the bounty from [[Hannibal Scipio]] and begin your search in apprehending [[The Blasphemer]]
+- Before you do, you must prove you are physically capable of the job by winning a duel at [[The Colosseum]]
+- Afterwards, he tells you to go to [[Fajjarah]] to meet up with [[Dominus Vangus]], the Consul of that city
+- Once you arrive in [[Fajjarah]], [[Chapter 2 - The Culling]], begins
