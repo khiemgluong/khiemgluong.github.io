@@ -38,12 +38,6 @@ keep_files:
 obsidian_vault: "assets/obsidian/Blade Ballad/" # Required
 obsidian_homepage: "overview.md" # Optional
 
-defaults:
-  - scope:
-      path: "assets/obsidian/"
-    values:
-      layout: null 
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
