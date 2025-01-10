@@ -1,6 +1,5 @@
 <head>
-    <script
-        src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
 </head>
 
 <!-- --------------------------- Data Extractors --------------------------- -->
@@ -110,6 +109,7 @@
                     let _filePath = parsedFilePath.replace("/:|", "'");
                     if (_filePath.endsWith('/')) _filePath = _filePath.slice(0, -1);
                     const fileName = extractFilenameFromPath(_filePath);
+                    console.warn("backlink json " + fileName);
                     if (!button.dataset.value) {
                         const dataValue = event.target.textContent;
                         if (dataValue.includes('#')) {
@@ -314,6 +314,7 @@
     }
 
     function dispatchFileSelectEvt(filePath, heading) {
+        console.warn("dispatch file select evt " + filePath);
         const EXPLORER = OBSIDIAN.querySelector('#explorer');
         const detail = { filePath };
         if (filePath.endsWith('.mdj')) {
